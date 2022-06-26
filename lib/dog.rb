@@ -1,2 +1,2 @@
-class Dog < ActiveRecord::Base #this is sweet
+class Dog < ActiveRecord::Base #this is sweet, inheritance at work
 end
